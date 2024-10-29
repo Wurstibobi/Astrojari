@@ -20,3 +20,11 @@ Merge
 Mee vastaanottavalle branchille
 Esim git checkout "master"
 git merge "Branchin nimi"
+
+
+TODO:
+Pelin uudelleenkäynistys nappi.
+Trailistä smuutti.
+Movementistä smuutti. 
+Hyppymekaniikat.
+
