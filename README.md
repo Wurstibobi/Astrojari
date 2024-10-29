@@ -4,8 +4,19 @@ git add .
 git commit -m "Versio"
 git push
 
-Branchin vaihto:
+Branchin luominen:
 git checkout -b "Branchin nimi"
 git add .
 git commit -m "Versio"
 git push
+
+Branchin vaihto
+git checkout "Branchin nimi"
+git add .
+git commit -m "Versio"
+git push
+
+Merge
+Mee vastaanottavalle branchille
+Esim git checkout "master"
+git merge "Branchin nimi"
